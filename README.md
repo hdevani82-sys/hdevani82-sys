@@ -64,17 +64,17 @@
 ---
 
 ## 🧠 DSA Progress
-- 🔥 Solved 300+ Problems on LeetCode  
+- 🔥 Solved 75+ Problems on LeetCode  
 - 📍 Focus Areas: Arrays, Strings, Trees, DP, Sliding Window  
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=vamjakrish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=HarshDevani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://streak-stats.demolab.com/?user=vamjakrish&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=HarshDevani&theme=dark&hide_border=false)
 <br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vamjakrish&theme=dark&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshDevani&theme=dark&layout=compact)
 
 ---
 
